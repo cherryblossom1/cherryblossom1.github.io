@@ -52,6 +52,24 @@ ul.c{
     padding: 2px;
 }
 
+a:link{
+    color: white;
+    font-family: "Verdana", Times, Sans-serif;
+    font-size: 1em;
+}
+
+a:visited{
+    color: white;
+    font-family: "Verdana", Times, Sans-serif;
+    font-size: 1em;
+}
+a:hover{
+    color: white;
+    font-family: "Verdana", Times, Sans-serif;
+    font-size: 1em;
+}
+
+
 /* Button used to open the contact form - fixed at the bottom of the page
 .open-button {
     background-color: #FF80C0;
